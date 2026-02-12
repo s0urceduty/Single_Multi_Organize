@@ -37,4 +37,5 @@ The Single Multi Organize (SMO) library is a production-ready prototype now avai
 
 -----------
 chatgpt.com/g/g-679a2ec07c588191aaca1586deeea33a-optimized-organizer
+<br>
 sourceduty.com
